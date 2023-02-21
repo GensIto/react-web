@@ -1,0 +1,9 @@
+.HeaderMobileMenuOpen {
+  transition: 0.4s;
+  @apply right-[0%];
+}
+
+.HeaderMobileMenuClose {
+  transition: 0.4s;
+  @apply right-[-100%];
+}
